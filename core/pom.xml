@@ -10,14 +10,14 @@
 	<artifactId>core</artifactId>
 	<dependencies>
 		<dependency>
-			<groupId>com.github.ravn.jsocks</groupId>
-			<artifactId>jsocks</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<groupId>com.github.JesusMcCloud</groupId>
+			<artifactId>jtorctl</artifactId>
+			<version>-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>net.freehaven</groupId>
-			<artifactId>jtorctl</artifactId>
-			<version>2015-09</version>
+			<groupId>com.github.ravn</groupId>
+			<artifactId>jsocks</artifactId>
+			<version>-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.slf4j</groupId>
